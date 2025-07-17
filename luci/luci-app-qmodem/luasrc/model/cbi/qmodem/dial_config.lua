@@ -94,7 +94,7 @@ pdp_type:value("ipv4v6", translate("IPv4/IPv6"))
 
 -- 接入点
 apn = s:taboption("advanced", Value, "apn", translate("APN"))
-apn.default = ""
+apn.default = "internet"
 apn.rmempty = true
 apn:value("", translate("Auto Choose"))
 apn:value("unet", translate("Maxis (unet)"))
