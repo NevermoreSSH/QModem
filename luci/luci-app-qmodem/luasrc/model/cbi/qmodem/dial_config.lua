@@ -120,7 +120,6 @@ apn:value("internet.t-mobile.at", translate("Magenta (AT)"))
 -- Philippines (PH)
 apn:value("http.globe.com.ph", translate("Globe Prepaid (PH)"))
 apn:value("internet.globe.com.ph", translate("Globe Postpaid (PH)"))
-apn:value("internet", translate("Smart Communications (PH)"))
 apn:value("internet.dito.ph", translate("Dito Telecomunity (PH)"))
 
 auth = s:taboption("advanced", ListValue, "auth", translate("Authentication Type"))
@@ -176,7 +175,6 @@ apn:value("internet.t-mobile.at", translate("Magenta (AT)"))
 -- Philippines (PH)
 apn:value("http.globe.com.ph", translate("Globe Prepaid (PH)"))
 apn:value("internet.globe.com.ph", translate("Globe Postpaid (PH)"))
-apn:value("internet", translate("Smart Communications (PH)"))
 apn:value("internet.dito.ph", translate("Dito Telecomunity (PH)"))
 
 
